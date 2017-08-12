@@ -1,9 +1,9 @@
 {
-  "name": "codename-zodiac-warriors",
+  "name": "codename-zodiac",
   "version": "1.0.0",
-  "description": "Zodiac warriors names parser for codename",
+  "description": "Zodiac signs names parser for codename",
   "main": "index.js",
-  "repository": "https://github.com/khaosdoctor/codename-zodiac-warriors.git",
+  "repository": "https://github.com/khaosdoctor/codename-zodiac.git",
   "author": "Lucas Santos <lhs.santoss@gmail.com>",
   "license": "MIT",
   "dependencies": {
